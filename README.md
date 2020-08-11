@@ -24,6 +24,7 @@ Se abre una pestaña del navegador en el puerto 3000:
 
 
 ## Screenshot
-
+![breaking-bad](https://user-images.githubusercontent.com/44064190/89928978-f9e55380-dbde-11ea-8fbe-a410c6e55583.png)
 
 ## Link de la aplicación en producción:
+https://breaking-bad-react-brown.vercel.app/
